@@ -68,3 +68,5 @@ var captain: Developer = {
   age: 100,
   language: 'ts'
 }
+
+// test
