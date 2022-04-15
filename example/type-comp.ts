@@ -8,10 +8,10 @@ interface Person {
   name: string;
 }
 
-var a: Developer;
-var b: Person;
-// a = b; // X
-b = a; // O
+// var a: Developer;
+// var b: Person;
+// // a = b; // X
+// b = a; // O
 
 // 함수
 var add = function(a: number) {

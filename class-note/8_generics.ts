@@ -73,3 +73,5 @@ function getShoppingItemOption<T extends keyof ShoppingItem>(itemOption: T):T {
   return itemOption;
 }
 getShoppingItemOption('name')
+getShoppingItemOption('price')
+// getShoppingItemOption('shop')
